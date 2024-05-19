@@ -1,0 +1,28 @@
+body {
+    font-family: Vazirmatn;
+    font-size: .9rem;
+    line-height: 1.3rem;
+}
+
+.bg-light-gray{
+    background-color: #ddd;
+}
+.persian-digits{
+    font-family: Vazirmatn FD;
+}
+
+table,
+thead,
+tfoot{
+    border: 2px solid black;
+}
+
+th,
+td {
+    border: 1px solid black;
+    padding: 0px 5px 0px 5px;
+}
+
+main{
+        font-size: .8rem;
+}
