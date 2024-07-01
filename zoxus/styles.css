@@ -1,0 +1,16 @@
+.table-report-zoxus th,
+.table-report-zoxus td {
+    border: 1px solid black;
+    padding: 2px 5px 2px 5px;
+
+}
+
+.logo-zoxus{
+    width: 194px;
+    height: auto;
+}
+
+.meta,
+.meta a{
+    color: #9d591b
+}
